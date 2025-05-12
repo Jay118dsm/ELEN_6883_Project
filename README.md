@@ -9,7 +9,7 @@ Scripts that reproduce Phase 2 of our ELEN 6883 final project.
 | `transfer_scraper.py` | grabs latest transfers → `zora_transfers.csv` |
 | `asks_scraper.py`     | grabs latest 1 000 asks  → `zora_asks.csv` |
 | `bids_scraper.py`     | grabs latest 1 000 bids  → `zora_bids.csv` |
-| `process_data.py`     | optional merge into `zora_events_combined.csv` |
+| `data_process.py`     | optional merge into `zora_events_combined.csv` |
 | `requirements.txt`    | dependencies |
 
 ## Quick start
